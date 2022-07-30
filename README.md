@@ -1,6 +1,6 @@
 # Bootcamp Linux Experience da DIO
 
-## Linux Projeto 01 - IAC
+## Linux Projeto 01 - IaC
 
 Infraestrutura como Código: Script de Criação de Estrutura de Usuários, Diretórios e Permissões.
 
