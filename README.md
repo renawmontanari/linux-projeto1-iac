@@ -2,4 +2,7 @@
 
 ## Linux Projeto 01 - IAC
 
-Infraestrutura como Código: Script de Criação de Estrutura de Usuários, Diretórios e Permissões
+Infraestrutura como Código: Script de Criação de Estrutura de Usuários, Diretórios e Permissões.
+
+![tux](https://user-images.githubusercontent.com/101996367/181934978-d25653f7-f4a8-433d-b1f1-cfa22367d1c6.png)
+
